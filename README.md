@@ -28,6 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sounakss7&" alt="sounakss7" /></p>
 [![sounakss7's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=sounakss7&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+https://leetcode-stats.vercel.app/api?username=sounakss7&theme=Dark
 
 
 
