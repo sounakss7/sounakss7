@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sounakss7&show_icons=true&locale=en" alt="sounakss7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sounakss7&" alt="sounakss7" /></p>
-![](https://leetcard.jacoblin.cool/sounakss7?cache=0)
+![](https://leetcard.jacoblin.cool/sounakss7=heatmap)
