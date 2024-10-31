@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Sounak Sarkar</h1>
 <h3 align="center">A passionate coder and learner</h3>
 
@@ -12,12 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sounak-sarkar-aa230a248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sounak-sarkar-aa230a248/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sounakss7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sounakss7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sounak-sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sounak-sarkar" height="30" width="40" /></a>
+<a href="https://kaggle.com/sounakss7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sounakss7" height="30" width="40" /></a>
 <a href="https://instagram.com/sounakss7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sounakss7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kfw5kw5g6f/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kfw5kw5g6f/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sounakss7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sounakss7" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sounaks139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sounaks139" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/sounak05zc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sounak05zc/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sounak05zc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sounak05zc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sounakss7&show_icons=true&locale=en" alt="sounakss7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sounakss7&" alt="sounakss7" /></p>
-![](https://leetcard.jacoblin.cool/sounakss7/=heatmap)
