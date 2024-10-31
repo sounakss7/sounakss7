@@ -27,7 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sounakss7&show_icons=true&locale=en" alt="sounakss7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sounakss7&" alt="sounakss7" /></p>
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=sounakss7&theme=dark)
+
 
 
 
