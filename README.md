@@ -87,6 +87,16 @@
 
 ---
 
+## 📈 Unique Cloners
+
+| Metric | Value |
+| ------ | ----- |
+| **Total Clones** | ![Clones badge](https://img.shields.io/badge/dynamic/json?label=Clones&color=blue&query=count&url=https://raw.githubusercontent.com/sounakss7/Breast_Cancer_detection-USING-XGBOOST-classifier/graphs/traffic-data/clones.json) |
+| **Unique Cloners** | **41** |
+
+> **Unique Cloners** counts distinct users (based on IP) who cloned this repo in the chosen period.  
+> Thanks to everyone exploring the project—feel free to ⭐ star it or open an issue if you have ideas!
+
 ### 📫 Contact Me:
 
 <p align="center">
