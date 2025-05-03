@@ -87,9 +87,6 @@
 
 ---
 
-## 📈 Unique Cloners
-![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=blue&label=Clones&query=count&url=https://raw.githubusercontent.com/<user>/<repo>/<branch>/path-to/clones.json)
-
 
 ### 📫 Contact Me:
 
