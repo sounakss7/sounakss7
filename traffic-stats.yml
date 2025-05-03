@@ -1,0 +1,37 @@
+name: Update GitHub Traffic Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-traffic:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.x
+
+    - name: Install requests
+      run: pip install requests
+
+    - name: Fetch traffic data
+      run: |
+        python get_traffic.py
+      env:
+        GH_TOKEN: ${{ secrets.GH_TRAFFIC_TOKEN }}
+        REPO: sounakss7/Breast_Cancer_detection-USING-XGBOOST-classifier
+
+    - name: Commit and push traffic.json
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add traffic.json
+        git commit -m "Update traffic data" || echo "No changes"
+        git push
