@@ -86,6 +86,12 @@
 </p>
 
 ---
+## 📈 Project Traffic (Auto-updated daily)
+
+![Total Visitors](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/sounakss7/sounakss7/main/traffic.json&label=Total%20Visitors&query=$.views&color=blue)
+![Unique Visitors](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/sounakss7/sounakss7/main/traffic.json&label=Unique%20Visitors&query=$.unique_visitors&color=blueviolet)
+![Total Clones](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/sounakss7/sounakss7/main/traffic.json&label=Total%20Clones&query=$.clones&color=green)
+![Unique Cloners](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/sounakss7/sounakss7/main/traffic.json&label=Unique%20Cloners&query=$.unique_cloners&color=success)
 
 
 ### 📫 Contact Me:
