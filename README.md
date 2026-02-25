@@ -19,8 +19,8 @@
 </h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff99&height=4&section=header&animation=twinkling"/>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=850&lines=════════════════════════════════════════════════════════════════════════════"/>
+</p>>
 
 # 🖥 COMMAND CONSOLE
 
