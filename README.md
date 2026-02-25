@@ -18,10 +18,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=850&lines=Booting+SOUNAK+OS+v4...;Loading+Neural+Architecture...;Initializing+Cloud+Infrastructure...;Connecting+to+Distributed+Systems...;Kernel+Status:+ONLINE+⚡"/>
 </h2>
 
----
 <p align="center">
-  <img src="https://progress-bar.dev/80/?title=Machine%20Learning&width=500&color=00ff99"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff99&height=4&section=header&animation=twinkling"/>
 </p>
+
 # 🖥 COMMAND CONSOLE
 
 ```bash
