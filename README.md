@@ -2,7 +2,9 @@
 <!--                 🧠 SOUNAK OS v4                           -->
 <!--        CYBERPUNK • AI ENGINEER • KERNEL EDITION          -->
 <!-- ========================================================= -->
-
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+</p>
 <!-- NEON PARTICLE HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff99&height=250&section=header&text=SOUNAK%20SARKAR&fontSize=50&fontColor=00FF99&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20ML%20Architect%20%7C%20Cloud%20Explorer&descAlignY=65"/>
