@@ -10,7 +10,7 @@
 
 <!-- MATRIX RAIN -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQq8uD1f9S/giphy.gif" width="100%" />
 </p>
 
 <!-- TERMINAL BOOT -->
