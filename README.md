@@ -19,7 +19,13 @@
 </h2>
 
 ---
-
+<p align="center">
+  <img src="https://progress-bar.dev/92/?title=Machine%20Learning&width=500&color=00ff99"/>
+  <br>
+  <img src="https://progress-bar.dev/85/?title=Cloud%20Architecture&width=500&color=00ff99"/>
+  <br>
+  <img src="https://progress-bar.dev/95/?title=Python%20Engineering&width=500&color=00ff99"/>
+</p>
 # 🖥 COMMAND CONSOLE
 
 ```bash
