@@ -59,18 +59,27 @@
   Python Engineering    ███████████████░░ 95%
   Data Structures       ████████████░░░░░ 78%
 ```
+
 ## 🧬 INTERACTIVE NAVIGATION PANEL
 <p align="center"> <a href="#live-system-telemetry"><img src="https://img.shields.io/badge/Telemetry-00ff99?style=for-the-badge"/></a> <a href="#deep-analytics-engine"><img src="https://img.shields.io/badge/Analytics-00ff99?style=for-the-badge"/></a> <a href="#leetcode-intelligence-core"><img src="https://img.shields.io/badge/LeetCode-00ff99?style=for-the-badge"/></a> <a href="#connect-network"><img src="https://img.shields.io/badge/Connect-00ff99?style=for-the-badge"/></a> </p>
 
 ## ⏱ LIVE CLOCK
+
 <p align="center"> <img src="https://readme-time.vercel.app/api/timezone?timezone=Asia/Kolkata&theme=dark"/> </p>  not working
+
 ## 🎵 LIVE SPOTIFY
+
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&background_color=000000"/> </p>
 ## 🧩 RANDOM DEV QUOTE
+
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/> </p>
+
 ## 🏆 ACHIEVEMENT MATRIX
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sounakss7&theme=darkhub&margin-w=10" />
 </p>
+
 ## 📡 CONNECT NETWORK
+
 <p align="center"> <a href="https://www.linkedin.com/in/sounak-sarkar-aa230a248/"> <img src="https://img.shields.io/badge/LinkedIn-00ff99?style=for-the-badge&logo=linkedin"/> </a> <a href="https://kaggle.com/sounakss7"> <img src="https://img.shields.io/badge/Kaggle-00ff99?style=for-the-badge&logo=kaggle"/> </a> <a href="https://www.leetcode.com/sounakss7"> <img src="https://img.shields.io/badge/LeetCode-00ff99?style=for-the-badge&logo=leetcode"/> </a> </p>
+
