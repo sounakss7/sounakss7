@@ -19,7 +19,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=8&duration=1000&pause=0&color=FF0000&center=true&vCenter=true&width=1000&height=20&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=850&lines=════════════════════════════════════════════════════════════════════════════"/>
 </p>
 
 # 🖥 COMMAND CONSOLE
