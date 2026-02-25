@@ -9,23 +9,9 @@
 </p>
 
 <!-- MATRIX RAIN -->
-<div align="center" style="position:relative;">
-
-  <!-- Matrix Rain Background -->
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="100%" />
-
-  <!-- Robotic Overlay Text -->
-  <h2 style="position:absolute; top:40%; left:50%; transform:translate(-50%,-50%);
-             color:#00FFCC; font-family:monospace; letter-spacing:3px;">
-    [ AI CORE INITIALIZING... ]
-  </h2>
-
-  <h3 style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
-             color:#00FF99; font-family:monospace;">
-    NEURAL PROCESSOR ONLINE ⚡
-  </h3>
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
+</p>
 
 <!-- TERMINAL BOOT -->
 <h2 align="center">
