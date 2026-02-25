@@ -9,16 +9,10 @@
 </p>
 
 <!-- MATRIX RAIN -->
-<h1 align="center">Sounak Sarkar</h1>
-<h3 align="center">AI Engineer • Machine Learning Architect • Cloud Systems Builder</h3>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=250&section=header&text=SOUNAK%20OS&fontSize=50&fontColor=00FFCC&animation=twinkling&fontAlignY=40&desc=Artificial%20Intelligence%20•%20Autonomous%20Systems%20•%20Scalable%20Architecture&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:2C5364&height=200&section=header&text=Sounak%20Sarkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20•%20Systems%20Architect%20•%20Builder&descAlignY=70"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="100%" />
-</p>
 <!-- TERMINAL BOOT -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=850&lines=Booting+SOUNAK+OS+v4...;Loading+Neural+Architecture...;Initializing+Cloud+Infrastructure...;Connecting+to+Distributed+Systems...;Kernel+Status:+ONLINE+⚡"/>
@@ -34,4 +28,3 @@
 > specialization: machine_learning • scalable_systems • cloud_native
 > location: asia/kolkata
 > system_status: operational
-
