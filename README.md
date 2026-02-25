@@ -70,6 +70,7 @@
 ## 🎵 LIVE SPOTIFY
 
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&background_color=000000"/> </p>
+
 ## 🧩 RANDOM DEV QUOTE
 
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/> </p>
