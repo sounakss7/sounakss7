@@ -19,7 +19,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/rgb-line.svg" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=8&duration=1000&pause=0&color=FF0000&center=true&vCenter=true&width=1000&height=20&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"/>
 </p>
 
 # 🖥 COMMAND CONSOLE
