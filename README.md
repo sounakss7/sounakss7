@@ -10,9 +10,8 @@
 
 <!-- MATRIX RAIN -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 </p>
-
 <!-- TERMINAL BOOT -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=850&lines=Booting+SOUNAK+OS+v4...;Loading+Neural+Architecture...;Initializing+Cloud+Infrastructure...;Connecting+to+Distributed+Systems...;Kernel+Status:+ONLINE+⚡"/>
