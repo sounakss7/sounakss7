@@ -19,7 +19,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ffcc&height=5&section=header&animation=twinkling"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=2000&pause=500&color=00FF99&center=true&vCenter=true&width=800&height=20&lines=████████████████████████████████████████████████████████████"/>
 </p>
 
 # 🖥 COMMAND CONSOLE
