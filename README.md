@@ -9,8 +9,11 @@
 </p>
 
 <!-- MATRIX RAIN -->
+<h1 align="center">Sounak Sarkar</h1>
+<h3 align="center">AI Engineer • Machine Learning Architect • Cloud Systems Builder</h3>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+  <img src="https://img.shields.io/badge/Status-Building%20AI%20Systems-111111?style=for-the-badge" />
 </p>
 <!-- TERMINAL BOOT -->
 <h2 align="center">
