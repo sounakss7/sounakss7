@@ -13,7 +13,11 @@
 <h3 align="center">AI Engineer • Machine Learning Architect • Cloud Systems Builder</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20AI%20Systems-111111?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=250&section=header&text=SOUNAK%20OS&fontSize=50&fontColor=00FFCC&animation=twinkling&fontAlignY=40&desc=Artificial%20Intelligence%20•%20Autonomous%20Systems%20•%20Scalable%20Architecture&descAlignY=65"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="100%" />
 </p>
 <!-- TERMINAL BOOT -->
 <h2 align="center">
