@@ -69,6 +69,8 @@
 ## 🧩 RANDOM DEV QUOTE
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/> </p>
 ## 🏆 ACHIEVEMENT MATRIX
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sounakss7&theme=matrix&no-frame=true&no-bg=true"/> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sounakss7&theme=darkhub&margin-w=10" />
+</p>
 ## 📡 CONNECT NETWORK
 <p align="center"> <a href="https://www.linkedin.com/in/sounak-sarkar-aa230a248/"> <img src="https://img.shields.io/badge/LinkedIn-00ff99?style=for-the-badge&logo=linkedin"/> </a> <a href="https://kaggle.com/sounakss7"> <img src="https://img.shields.io/badge/Kaggle-00ff99?style=for-the-badge&logo=kaggle"/> </a> <a href="https://www.leetcode.com/sounakss7"> <img src="https://img.shields.io/badge/LeetCode-00ff99?style=for-the-badge&logo=leetcode"/> </a> </p>
