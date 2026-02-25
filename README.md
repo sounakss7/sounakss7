@@ -3,7 +3,7 @@
 <!--        CYBERPUNK • AI ENGINEER • KERNEL EDITION          -->
 <!-- ========================================================= -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&animation=twinkling&text=SOUNAK%20SARKAR&fontSize=50&fontColor=ffffff&desc=AI%20Engineer%20•%20Systems%20Builder&descAlignY=65"/>
 </p>
 <!-- NEON PARTICLE HEADER -->
 <p align="center">
