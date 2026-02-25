@@ -9,9 +9,7 @@
 </p>
 
 <!-- MATRIX RAIN -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:2C5364&height=200&section=header&text=Sounak%20Sarkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20•%20Systems%20Architect%20•%20Builder&descAlignY=70"/>
-</p>
+
 
 <!-- TERMINAL BOOT -->
 <h2 align="center">
