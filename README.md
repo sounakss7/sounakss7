@@ -81,11 +81,26 @@
 
 <p align="center">
   📍 Operating from <b>Kolkata, India</b> (Asia/Kolkata)
-</p>>
+</p>
 
-## 📊 Project Traffic (Auto-updated daily)
+---
 
-![Total Visitors](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/sounakss7/sounakss7/main/traffic.json&query=$.visitors&label=Total%20Visitors&color=00ff99&style=for-the-badge)
+---
+
+## 📈 PROJECT TRAFFIC MATRIX (Auto-updated daily)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/sounakss7/sounakss7/main/traffic.json&query=$.total_views&label=Total%20Views&color=00ff99&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/sounakss7/sounakss7/main/traffic.json&query=$.unique_views&label=Unique%20Visitors&color=00d4ff&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/sounakss7/sounakss7/main/traffic.json&query=$.total_clones&label=Total%20Clones&color=ff00ff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/sounakss7/sounakss7/main/traffic.json&query=$.unique_clones&label=Unique%20Cloners&color=ffaa00&style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/sounakss7/sounakss7/main/traffic.json&query=$.last_updated&label=Last%20Updated&color=gray&style=flat-square" />
+</p>
 
 ## 🧩 RANDOM DEV QUOTE
 
