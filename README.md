@@ -22,8 +22,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=850&lines=════════════════════════════════════════════════════════════════════════════"/>
 </p>
 
-## 📈 Project Traffic (Auto-updated daily) ![Total Visitors](https://img.shields.io/badge/dynamic/json
-
 # 🖥 COMMAND CONSOLE
 
 ```bash
@@ -84,6 +82,10 @@
 <p align="center">
   📍 Operating from <b>Kolkata, India</b> (Asia/Kolkata)
 </p>>
+
+## 📊 Project Traffic (Auto-updated daily)
+
+![Total Visitors](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/sounakss7/sounakss7/main/traffic.json&query=$.visitors&label=Total%20Visitors&color=00ff99&style=for-the-badge)
 
 ## 🧩 RANDOM DEV QUOTE
 
