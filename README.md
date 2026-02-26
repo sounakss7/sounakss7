@@ -65,7 +65,9 @@
 
 ## ⏱ LIVE CLOCK
 
-<p align="center"> <img src="https://readme-time.vercel.app/api/timezone?timezone=Asia/Kolkata&theme=dark"/> </p>  not working
+<p align="center">
+  <img src="https://tomchen.github.io/animated-svg-clock/clock.svg" alt="Animated Clock" width="200"/>
+</p>
 
 ## 🎵 LIVE SPOTIFY
 
@@ -77,7 +79,7 @@
 
 ## 🏆 ACHIEVEMENT MATRIX
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sounakss7&theme=darkhub&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sounakss7&theme=darkhub&margin-w=10&row=1&column=6&v=1" alt="sounakss7 Trophies" />
 </p>
 
 ## 📡 CONNECT NETWORK
