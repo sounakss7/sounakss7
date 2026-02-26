@@ -106,10 +106,36 @@
 
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/> </p>
 
-## 🏆 ACHIEVEMENT MATRIX
-<p align="center">
-  <img src="https://github-profile-trophy-sigma.vercel.app/?username=sounakss7&theme=darkhub&no-frame=true&margin-w=15" />
-</p>
+## 🧠 NEURAL ACHIEVEMENT NETWORK
+
+```mermaid
+flowchart LR
+
+    A[Programming Foundations] --> B[Python Engineering]
+    A --> C[Data Structures & Logic]
+
+    B --> D[Backend Development]
+    C --> D
+
+    D --> E[API Design]
+    D --> F[Database Systems]
+
+    E --> G[Scalable Architecture]
+    F --> G
+
+    G --> H[Cloud Deployment]
+
+    H --> I[Machine Learning Integration]
+
+    I --> J[AI System Builder]
+
+    J --> K[Continuous Learning Loop]
+    K --> D
+
+    style A fill:#0d1117,stroke:#00ff99,stroke-width:2px,color:#00ff99
+    style J fill:#00ff99,stroke:#0d1117,stroke-width:2px,color:#000
+    style K fill:#0d1117,stroke:#00ffcc,stroke-width:2px,color:#00ffcc
+```
 
 ## 📡 CONNECT NETWORK
 
