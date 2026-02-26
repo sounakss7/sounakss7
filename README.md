@@ -22,6 +22,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=850&lines=════════════════════════════════════════════════════════════════════════════"/>
 </p>
 
+## 📈 Project Traffic (Auto-updated daily) ![Total Visitors](https://img.shields.io/badge/dynamic/json
+
 # 🖥 COMMAND CONSOLE
 
 ```bash
@@ -69,9 +71,19 @@
   <img src="https://tomchen.github.io/animated-svg-clock/clock.svg" alt="Animated Clock" width="200"/>
 </p>
 
-## 🎵 LIVE SPOTIFY
+## 🌍 GLOBAL NODE
 
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&background_color=000000"/> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Kolkata,%20India-00ff99?style=for-the-badge&logo=google-maps&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/World_map_-_low_resolution.svg" width="80%"/>
+</p>
+
+<p align="center">
+  📍 Operating from <b>Kolkata, India</b> (Asia/Kolkata)
+</p>>
 
 ## 🧩 RANDOM DEV QUOTE
 
@@ -79,7 +91,7 @@
 
 ## 🏆 ACHIEVEMENT MATRIX
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sounakss7&theme=darkhub&margin-w=10&row=1&column=6&v=1" alt="sounakss7 Trophies" />
+  <img src="https://github-profile-trophy-sigma.vercel.app/?username=sounakss7&theme=darkhub&no-frame=true&margin-w=15" />
 </p>
 
 ## 📡 CONNECT NETWORK
