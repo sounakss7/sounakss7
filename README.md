@@ -40,7 +40,6 @@ B.Tech in Computer Science (AI & ML) from Dr. Sudhir Chandra Sur Institute of Te
 | Languages | Python, SQL |
 | AI / ML | LangGraph, XGBoost, Gradient Boosting, RAG, Prompt Engineering, Qdrant, MiniLM Embeddings |
 | Backend | FastAPI, Pydantic v2, SQLite, PostgreSQL |
-| Cloud & DevOps | Docker, AWS EC2 |
 | Data Analytics | Power BI, SQL Window Functions |
 
 ---
