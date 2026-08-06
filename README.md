@@ -56,6 +56,7 @@ B.Tech in Computer Science (AI & ML) from Dr. Sudhir Chandra Sur Institute of Te
 </p>
 
 ---
+![trophy](https://github-profile-trophy.vercel.app/?username=sounakss7&theme=flat&no-frame=true&row=1&column=6)
 
 ### Connect
 
@@ -70,3 +71,4 @@ B.Tech in Computer Science (AI & ML) from Dr. Sudhir Chandra Sur Institute of Te
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
   </a>
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=sounakss7&color=00ff99&style=flat-square&label=Profile+Views)
