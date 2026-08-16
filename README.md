@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f766e&height=220&section=header&text=Sounak%20Sarkar&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%2FML%20Engineer%20%E2%80%A2%20Agentic%20AI%20Systems%20Architect%20%E2%80%A2%20GenAI%20Researcher&descAlignY=62&descColor=94a3b8"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f766e&height=220&section=header&text=Sounak%20Sarkar&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%2FML%20Engineer%20%E2%80%A2%20Agentic%20AI%20Systems%20Architect&descAlignY=62&descColor=94a3b8"/>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ### 👨‍💻 Executive Profile
 
-I am an **AI/ML Engineer and Generative AI Specialist** pursuing a B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning) at **Dr. Sudhir Chandra Sur Institute of Technology (MAKAUT)**, graduating in **2026**.
+I am an **AI/ML Engineer** pursuing a B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning) at **Dr. Sudhir Chandra Sur Institute of Technology (MAKAUT)**, graduating in **2026**.
 
 My core focus lies in architecting **enterprise-grade Autonomous Agentic AI Systems**, **Corrective RAG (CRAG) pipelines**, and **Multi-Agent Orchestration networks** that bridge the gap between bleeding-edge research and mission-critical production environments.
 
