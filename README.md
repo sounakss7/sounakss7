@@ -232,17 +232,22 @@ My core focus lies in architecting **enterprise-grade Autonomous Agentic AI Syst
 ### 📊 GitHub & Problem Solving Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sounakss7&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=sounakss7&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sounakss7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sounakss7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sounakss7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sounakss7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=sounakss7&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   <img width="49%" src="https://leetcard.jacoblin.cool/sounakss7?theme=nord&font=Inter&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sounakss7&theme=tokyonight" alt="Repos Per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sounakss7&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ---
