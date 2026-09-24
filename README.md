@@ -31,12 +31,12 @@
 
 I am an **AI/ML Engineer** pursuing a B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning) at **Dr. Sudhir Chandra Sur Institute of Technology (MAKAUT)**, graduating in **2026**.
 
-My core focus lies in architecting **enterprise-grade Autonomous Agentic AI Systems**, **Corrective RAG (CRAG) pipelines**, and **Multi-Agent Orchestration networks** that bridge the gap between bleeding-edge research and mission-critical production environments.
+My core focus lies in architecting **enterprise-grade Autonomous Agentic AI Systems**, **Graph-RAG & Corrective Retrieval pipelines (CRAG)**, and **Multi-Agent Orchestration networks** that bridge the gap between bleeding-edge research and mission-critical production environments.
 
-- 🧠 **Multi-Agent Orchestration**: Specializing in stateful, cyclic workflow graphs using **LangGraph**, **Mixture of Agents (MoA)**, and multi-model consensus judging.
-- ⚡ **Advanced Retrieval (RAG / CRAG)**: Pioneering self-corrective retrieval architectures combining **HyDE**, hybrid lexical/dense search (**BM25 + Qdrant**), **Reciprocal Rank Fusion (RRF)**, **Cross-Encoder Reranking (FlashRank)**, and live web grounding (**Tavily**).
-- 🛡️ **Zero-Trust AI Guardrails**: Designing enterprise security layers (`InputGuard`, `OutputGuard`, `MemoryGuard`, `AuditLogger`) protecting against prompt injection, data leakage, and jailbreaks.
-- 🔬 **Published Research & Intellectual Property**: Co-authored award-winning research (*Best Paper Award*, indexed on Google Scholar) and filed a patent with the **Indian Patent Office (App. No. 202631059925)**.
+- 🧠 **Multi-Agent Orchestration**: Specializing in stateful, cyclic workflow graphs using **LangGraph**, **Mixture of Agents (MoA)** with blind LLM-as-a-judge arbitration, and Planner-Researcher-Critic multi-agent systems.
+- ⚡ **Autonomous Graph-RAG & Advanced Retrieval**: Architecting high-recall hybrid retrieval systems integrating **Knowledge Graphs (NetworkX GraphRAG)**, dense semantic search (**Qdrant 768-dim**), lexical BM25, **3-Way Reciprocal Rank Fusion (RRF)**, **Parent-Child Hierarchical Chunking**, and deterministic **Python Code Interpreter Sandboxes**.
+- 🛡️ **Zero-Trust AI Guardrails**: Designing enterprise security pipelines (`InputGuard`, `OutputGuard`, `MemoryGuard`, `AuditLogger`) enforcing PII redaction (Aadhaar, PAN, Luhn-validated cards) and deterministic identity-scoped vector isolation.
+- 🔬 **Published Research & Intellectual Property**: Co-authored award-winning research (*Best Paper Award*, indexed on Google Scholar) and filed a patent with the **Indian Patent Office (Application No. 202631059925)** verified on InPASS.
 
 ---
 
@@ -45,38 +45,41 @@ My core focus lies in architecting **enterprise-grade Autonomous Agentic AI Syst
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 AGENT_MIND (Neuroplexa AI)</h3>
-      <p><b>Patent-Pending Enterprise Multi-Agent AI Ecosystem</b></p>
+      <h3>🧠 Neuroplexa AI (AGENT_MIND)</h3>
+      <p><b>Patented Multi-Modal Agentic AI Workspace & MoA Arena</b></p>
       <p>
-        <img src="https://img.shields.io/badge/LangGraph-StateGraph-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/LLM-Gemini_2.5_Flash-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Judge-Mistral_AI-black?style=flat-square" />
-        <img src="https://img.shields.io/badge/Memory-Qdrant_Vector_DB-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Patent-Filed_%23202631059925-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/LangGraph-StateGraph-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Qdrant-Vector_Cloud-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tests-101%2F101_Passing-brightgreen?style=flat-square" />
       </p>
       <ul>
-        <li><b>Mixture of Agents (MoA)</b>: Orchestrates concurrent execution across Gemini 2.5 Flash and Groq/Llama engines with an impartial <b>Mistral AI Judge</b>.</li>
-        <li><b>4-Layer Security Pipeline</b>: Zero-trust architecture incorporating <code>InputGuard</code>, <code>OutputGuard</code>, <code>MemoryGuard</code>, and an immutable <code>AuditLogger</code>.</li>
-        <li><b>Long-Term Vector Memory</b>: Semantic persistent memory backed by Qdrant Cloud (384-dim embeddings).</li>
-        <li><b>Intellectual Property</b>: Patent filed with the <b>Indian Patent Office (Application No. 202631059925)</b>.</li>
+        <li><b>Deterministic Zero-Latency Routing</b>: Sub-millisecond (&lt;0.1ms) <code>SelfRouter</code> automata resolving intents across multi-modal tools with negative boundary constraints without LLM overhead.</li>
+        <li><b>Mixture of Agents (MoA) Arena</b>: Parallel execution across frontier models (Gemini, Groq, DeepSeek, Kimi) with blind <b>Mistral AI Judge</b> scoring and Human-in-the-Loop (HITL) preference overrides.</li>
+        <li><b>4-Layer Zero-Trust Vector Security</b>: <code>InputGuard</code>, <code>OutputGuard</code> (PII &amp; Luhn credit card validation), <code>MemoryGuard</code>, and asynchronous <code>AuditLogger</code> emitting to Qdrant.</li>
+        <li><b>Cryptographically Scoped Vector Memory</b>: Identity-partitioned user memory isolation via <code>HMAC-SHA256</code> with automated factual knowledge distillation.</li>
+        <li><b>Intellectual Property</b>: Indian Patent Application <b>#202631059925</b> (IPO Kolkata Branch 31, InPASS verified).</li>
       </ul>
       <p>
-        🔗 <a href="https://multimodal.streamlit.app"><b>Live Application</b></a>
+        🔗 <a href="https://multimodal.streamlit.app"><b>Live Application</b></a> &nbsp;|&nbsp;
+        📂 <a href="https://github.com/sounakss7/AGENT_MIND"><b>Source Code</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Enterprise Corrective RAG (CRAG)</h3>
-      <p><b>Self-Correcting Multimodal Knowledge Retrieval Engine</b></p>
+      <h3>⚡ NexusRAG (agentic-rag-engine)</h3>
+      <p><b>Enterprise Autonomous Deep-Research &amp; Graph-RAG Engine</b></p>
       <p>
-        <img src="https://img.shields.io/badge/LangGraph-CRAG_Machine-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Hybrid-BM25_%2B_Qdrant-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Rerank-FlashRank-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Fallback-Tavily_Search-teal?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-Async_%26_SSE-009688?style=flat-square" />
+        <img src="https://img.shields.io/badge/GraphRAG-NetworkX-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/LangGraph-Planner--Critic-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Sandbox-Code_Interpreter-yellow?style=flat-square" />
       </p>
       <ul>
-        <li><b>Self-Evaluating Graph</b>: LangGraph state machine executing HyDE expansion, hybrid search, and structured Pydantic chunk relevance grading (&tau; &ge; 0.6).</li>
-        <li><b>Multi-Tier OCR</b>: 3-tier multimodal parser extracting text from scanned PDFs & images via <b>Gemini 2.5 Flash Vision OCR</b>.</li>
-        <li><b>4-Tier Retrieval Pipeline</b>: BM25 + Qdrant 768-dim embeddings fused via <b>Reciprocal Rank Fusion (RRF, k=60)</b> and reranked with <b>FlashRank Cross-Encoder</b>.</li>
-        <li><b>RAGAS Automated Evaluation</b>: Continuous benchmarking of Faithfulness (92-100%) and Context Precision (85-98%).</li>
+        <li><b>Multi-Agent Research Team</b>: Master Planner (autonomous query decomposition), Multi-Modal Researcher, and Self-Reflection Citation Verification Critic.</li>
+        <li><b>3-Way Hybrid GraphRAG Retrieval</b>: Fuses Dense Semantic (Qdrant 768-dim), Sparse Lexical (Lucene-smoothed BM25), and <b>Knowledge Graph (NetworkX GraphRAG)</b> via 3-Way RRF &amp; FlashRank Cross-Encoder reranking.</li>
+        <li><b>Deterministic Code Interpreter Sandbox</b>: Safe Python execution environment executing on tabular and mathematical data for zero-hallucination calculations.</li>
+        <li><b>Parent-Child Hierarchical Chunking</b>: High-precision retrieval indexing fine-grained child chunks while passing complete parent context to synthesis.</li>
+        <li><b>Enterprise Architecture</b>: Asynchronous FastAPI gateway with real-time SSE streaming, Docker Compose, and Streamlit control center.</li>
       </ul>
       <p>
         🔗 <a href="https://agentic-rag-engine.streamlit.app"><b>Live Application</b></a> &nbsp;|&nbsp; 
@@ -147,66 +150,70 @@ My core focus lies in architecting **enterprise-grade Autonomous Agentic AI Syst
       <td>
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Planner--Researcher--Critic-0284C7?style=flat-square" />
+        <img src="https://img.shields.io/badge/GraphRAG-2563EB?style=flat-square" />
         <img src="https://img.shields.io/badge/Corrective_RAG_(CRAG)-0284C7?style=flat-square" />
-        <img src="https://img.shields.io/badge/HyDE-0369A1?style=flat-square" />
         <img src="https://img.shields.io/badge/Mixture_of_Agents_(MoA)-6366F1?style=flat-square" />
-        <img src="https://img.shields.io/badge/Prompt_Engineering-4F46E5?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI_Guardrails-059669?style=flat-square" />
+        <img src="https://img.shields.io/badge/SelfRouter_Automata-0D9488?style=flat-square" />
+        <img src="https://img.shields.io/badge/Zero--Trust_Guardrails-059669?style=flat-square" />
       </td>
     </tr>
     <tr>
-      <td><b>Vector DBs & Retrieval</b></td>
+      <td><b>Vector DBs & Knowledge Graphs</b></td>
       <td>
         <img src="https://img.shields.io/badge/Qdrant_Vector_DB-DC2626?style=flat-square&logo=qdrant&logoColor=white" />
+        <img src="https://img.shields.io/badge/NetworkX_GraphStore-007ACC?style=flat-square" />
         <img src="https://img.shields.io/badge/BM25_Okapi-3B82F6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Reciprocal_Rank_Fusion_(RRF)-D97706?style=flat-square" />
+        <img src="https://img.shields.io/badge/3--Way_RRF_Fusion-D97706?style=flat-square" />
         <img src="https://img.shields.io/badge/FlashRank_Cross--Encoder-10B981?style=flat-square" />
-        <img src="https://img.shields.io/badge/text--embedding--004-7C3AED?style=flat-square" />
-        <img src="https://img.shields.io/badge/MiniLM-6B7280?style=flat-square" />
+        <img src="https://img.shields.io/badge/Parent--Child_Chunking-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/text--embedding--004-6366F1?style=flat-square" />
+        <img src="https://img.shields.io/badge/MiniLM--L6-6B7280?style=flat-square" />
       </td>
     </tr>
     <tr>
-      <td><b>LLMs & GenAI APIs</b></td>
+      <td><b>LLMs & Inference Engines</b></td>
       <td>
         <img src="https://img.shields.io/badge/Google_Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Groq_Cloud_(Llama_3.1)-F55036?style=flat-square" />
-        <img src="https://img.shields.io/badge/Mistral_AI-E04E39?style=flat-square" />
+        <img src="https://img.shields.io/badge/Groq_Cloud_(Llama_3.3_%2F_OSS)-F55036?style=flat-square" />
+        <img src="https://img.shields.io/badge/DeepSeek--V3_%2F_R1-1E40AF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Moonshot_Kimi-059669?style=flat-square" />
+        <img src="https://img.shields.io/badge/Mistral_AI_Judge-E04E39?style=flat-square" />
         <img src="https://img.shields.io/badge/Tavily_Search_API-0D9488?style=flat-square" />
       </td>
     </tr>
     <tr>
-      <td><b>Machine Learning & Analytics</b></td>
+      <td><b>Machine Learning & Code Sandbox</b></td>
       <td>
+        <img src="https://img.shields.io/badge/Python_Code_Sandbox-FACC15?style=flat-square&logo=python&logoColor=black" />
         <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square" />
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-        <img src="https://img.shields.io/badge/SQL_Window_Functions-003B57?style=flat-square" />
         <img src="https://img.shields.io/badge/RAGAS_Evaluator-8B5CF6?style=flat-square" />
       </td>
     </tr>
     <tr>
-      <td><b>Languages & Backend</b></td>
+      <td><b>Backend & Cloud Architecture</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI_(Async_%2B_SSE)-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Pydantic_v2-E92063?style=flat-square&logo=pydantic&logoColor=white" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </td>
     </tr>
     <tr>
-      <td><b>DevOps & Infrastructure</b></td>
+      <td><b>DevOps, Testing & Infrastructure</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker_%26_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pytest_Suite-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux%20%2F%20Bash-FCC624?style=flat-square&logo=linux&logoColor=black" />
-        <img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
       </td>
     </tr>
   </tbody>
@@ -216,8 +223,8 @@ My core focus lies in architecting **enterprise-grade Autonomous Agentic AI Syst
 
 ### 📜 Patents & Honors
 
-- 🏛️ **Indian Patent Filed**: *Application No. 202631059925* — Multi-Model Agentic AI System with Mixture of Agents & Vector Security Pipeline (AGENT_MIND).
-- 🏆 **Best Paper Award**: International Academic Research Conference — *Co-authored research on Multi-Agentic Autograder systems for robust C program assessment* (Indexed on Google Scholar).
+- 🏛️ **Indian Patent Filed**: *Application No. 202631059925* — **Multi-Model Agentic AI System with Mixture of Agents & Vector Security Pipeline (AGENT_MIND)** | Indian Patent Office (IPO), Kolkata Branch `31` • Controller General of Patents, Designs & Trade Marks (CGPDTM) • Verified on [InPASS](https://ipindiaservices.gov.in/publicsearch).
+- 🏆 **Best Paper Award**: International Academic Research Conference — *Co-authored research on Multi-Agentic Autograder systems for robust C program assessment* (Indexed on Google Scholar with assigned DOI).
 - 🌟 **Semi-Finalist @ ET Gen AI Hackathon 2026**: Ranked among the **top ~6,000 of 55,000+ teams** nationwide for the Autonomous Supply Chain Management (SCM) Intelligence Engine.
 
 ---
@@ -242,7 +249,7 @@ My core focus lies in architecting **enterprise-grade Autonomous Agentic AI Syst
 
 ### 🤝 Let's Collaborate & Connect
 
-I am actively open to discussions on **Agentic AI Systems**, **Enterprise RAG Engineering**, **Applied Machine Learning**, and **Full-time / High-Impact Roles**.
+I am actively open to discussions on **Agentic AI Systems**, **Enterprise Graph-RAG Engineering**, **Applied Machine Learning**, and **Full-time / High-Impact Roles**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sounak-sarkar-aa230a248/">
