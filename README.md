@@ -89,17 +89,19 @@ My core focus lies in architecting **enterprise-grade Autonomous Agentic AI Syst
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Autonomous SCM Intelligence Engine</h3>
-      <p><b>Self-Healing Multi-Agent Supply Chain Orchestration</b></p>
+      <h3>🌐 Indian Supply Chain Resilience Control Tower</h3>
+      <p><b>5-Agent LangGraph System with Deterministic OR Solver Core</b></p>
       <p>
-        <img src="https://img.shields.io/badge/LangGraph-Cyclic_Workflow-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Hackathon-ET_GenAI_Semi--Finalist-gold?style=flat-square" />
-        <img src="https://img.shields.io/badge/Database-MySQL_%2F_SQLite-00758F?style=flat-square" />
+        <img src="https://img.shields.io/badge/LangGraph-5--Agent_System-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Core-Deterministic_OR_Solver-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Models-Gemini_%2B_Groq_LPU-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tests-20%20Passed-brightgreen?style=flat-square" />
       </p>
       <ul>
-        <li><b>Autonomous Multi-Agent Network</b>: 5 specialized agents (Order Intake, Risk Intelligence, Compliance, Orchestration, Carrier Dispatcher).</li>
-        <li><b>Self-Healing Resiliency Loop</b>: Dynamic feedback loop detecting rejected port bookings (e.g. port strikes) and recalculating alternate logistics routes in real-time.</li>
-        <li><b>Enterprise Impact</b>: Modeled $310K/month enterprise savings and 97% reduction in SLA penalty breaches.</li>
+        <li><b>"The LLM Must NOT Do the Math"</b>: Architectural separation where a deterministic Operations Research (OR) solver core executes 100% of network routing, transit calculation, and Landed Cost minimization in INR (₹) to eliminate hallucinations.</li>
+        <li><b>Multi-Model Split Architecture</b>: <b>Google Gemini 2.5 Flash</b> assesses contextual disruption risk and drafts audited CSCO briefings; <b>Groq LPU</b> executes ultra-low-latency (&lt;15ms) physical warehouse and carrier constraint verification.</li>
+        <li><b>Indian Freight Topology</b>: Models manufacturing-to-retail corridors (Pune/Surat/Ahmedabad &rarr; JNPT/Mundra/Chennai &rarr; Bhiwandi/Bilaspur/Nelamangala &rarr; Metros) with 25 FMCG SKUs and national carriers (Safexpress, Delhivery, TCI, Blue Dart).</li>
+        <li><b>Empirical Benchmark (N=100)</b>: Achieved a <b>100.0% resolution success rate</b>, saving <b>₹27,22,863.88</b> (~₹27.2 Lakhs) in unmitigated late penalties and avoiding <b>408 days of transit delay</b> in 4.72 seconds.</li>
         <li><b>Accolade</b>: <b>Semi-Finalist at ET Gen AI Hackathon 2026</b> (Top ~6,000 of 55,000+ teams nationwide).</li>
       </ul>
       <p>
@@ -150,6 +152,7 @@ My core focus lies in architecting **enterprise-grade Autonomous Agentic AI Syst
       <td>
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Deterministic_OR_Solver-0284C7?style=flat-square" />
         <img src="https://img.shields.io/badge/Planner--Researcher--Critic-0284C7?style=flat-square" />
         <img src="https://img.shields.io/badge/GraphRAG-2563EB?style=flat-square" />
         <img src="https://img.shields.io/badge/Corrective_RAG_(CRAG)-0284C7?style=flat-square" />
@@ -185,6 +188,7 @@ My core focus lies in architecting **enterprise-grade Autonomous Agentic AI Syst
     <tr>
       <td><b>Machine Learning & Code Sandbox</b></td>
       <td>
+        <img src="https://img.shields.io/badge/Operations_Research_(OR)-007ACC?style=flat-square" />
         <img src="https://img.shields.io/badge/Python_Code_Sandbox-FACC15?style=flat-square&logo=python&logoColor=black" />
         <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square" />
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
@@ -225,7 +229,7 @@ My core focus lies in architecting **enterprise-grade Autonomous Agentic AI Syst
 
 - 🏛️ **Indian Patent Filed**: *Application No. 202631059925* — **Multi-Model Agentic AI System with Mixture of Agents & Vector Security Pipeline (AGENT_MIND)** | Indian Patent Office (IPO), Kolkata Branch `31` • Controller General of Patents, Designs & Trade Marks (CGPDTM) • Verified on [InPASS](https://ipindiaservices.gov.in/publicsearch).
 - 🏆 **Best Paper Award**: International Academic Research Conference — *Co-authored research on Multi-Agentic Autograder systems for robust C program assessment* (Indexed on Google Scholar with assigned DOI).
-- 🌟 **Semi-Finalist @ ET Gen AI Hackathon 2026**: Ranked among the **top ~6,000 of 55,000+ teams** nationwide for the Autonomous Supply Chain Management (SCM) Intelligence Engine.
+- 🌟 **Semi-Finalist @ ET Gen AI Hackathon 2026**: Ranked among the **top ~6,000 of 55,000+ teams** nationwide for the Indian Supply Chain Resilience Control Tower (5-Agent LangGraph + Deterministic OR Solver Core).
 
 ---
 
